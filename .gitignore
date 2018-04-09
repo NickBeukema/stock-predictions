@@ -1,2 +1,4 @@
 *.sw*
 data_stocks.csv
+output.csv
+.ipynb_checkpoints
